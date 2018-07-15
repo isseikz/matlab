@@ -1,0 +1,13 @@
+{エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('pause')" style="font-weight:bold">pause</a>
+処理を終了しました
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRdisp', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRdisp.m', 65)" style="font-weight:bold">HRdisp</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRdisp.m',65,0)">line 65</a>)
+pause(0.01);
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 59)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',59,0)">line 59</a>)
+	  			HRdisp(ts,xs,posT);
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ga3', 'C:\Users\issei\Desktop\2018_Hoppingrover\ga3.m', 74)" style="font-weight:bold">ga3</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\ga3.m',74,0)">line 74</a>)
+        HRmain;
+} 
+ga3

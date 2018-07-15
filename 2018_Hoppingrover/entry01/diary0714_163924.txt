@@ -1,0 +1,10 @@
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRjudge', '/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/HRjudge.m', 13)" style="font-weight:bold">HRjudge</a> (<a href="matlab: opentoline('/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/HRjudge.m',13,0)">line 13</a>)
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', '/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/HRmain.m', 54)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/HRmain.m',54,0)">line 54</a>)
+		state = HRjudge(posT);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ga3', '/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/ga3.m', 13)" style="font-weight:bold">ga3</a> (<a href="matlab: opentoline('/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/ga3.m',13,0)">line 13</a>)
+    HRmain;
+} 
+ga3

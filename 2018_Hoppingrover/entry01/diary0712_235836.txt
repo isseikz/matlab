@@ -1,0 +1,18 @@
+{ˆ—‚Í“r’†‚ÅI—¹‚µ‚Ü‚µ‚½ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 49)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',49,0)">line 49</a>)
+
+
+êŠ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ga2', 'C:\Users\issei\Desktop\2018_Hoppingrover\ga2.m', 68)" style="font-weight:bold">ga2</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\ga2.m',68,0)">line 68</a>)
+        HRmain;
+} 
+ga2
+  300.0200
+  300.0300
+  300.0400
+  300.0500
+  300.3000
+  300.4200
+  300.4200
+  301.8900
+  312.3900
+  393.8000
+

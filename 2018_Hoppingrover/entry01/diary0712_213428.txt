@@ -1,0 +1,14 @@
+{ˆ—‚Í“r’†‚ÅI—¹‚µ‚Ü‚µ‚½ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 48)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',48,0)">line 48</a>)
+
+
+êŠ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ga', 'C:\Users\issei\Desktop\2018_Hoppingrover\ga.m', 10)" style="font-weight:bold">ga</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\ga.m',10,0)">line 10</a>)
+    HRmain;
+} 
+ga
+
+myInput =
+
+   1.0e-03 *
+
+    0.4528    0.2041    0.4539    0.0982    0.3407   -0.0572    0.3368    0.0187   -0.4778   -0.1241
+

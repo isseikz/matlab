@@ -1,0 +1,7 @@
+{ˆ—‚Í“r’†‚ÅI—¹‚µ‚Ü‚µ‚½ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 49)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',49,0)">line 49</a>)
+
+
+êŠ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ga2', 'C:\Users\issei\Desktop\2018_Hoppingrover\ga2.m', 83)" style="font-weight:bold">ga2</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\ga2.m',83,0)">line 83</a>)
+            myInputModels(i,index) = newInput;
+} 
+ga2

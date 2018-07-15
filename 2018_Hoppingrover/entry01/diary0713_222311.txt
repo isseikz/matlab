@@ -1,0 +1,1 @@
+Hurrah! The rover has reached the target point at   189 s (TTRTP)

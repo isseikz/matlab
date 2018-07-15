@@ -1,0 +1,1860 @@
+
+index =
+
+     1
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     1
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     1
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     1
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     1
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     1
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     1
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     1
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     1
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     1
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     2
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     2
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     2
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     2
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     2
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     2
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     2
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     2
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     2
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     2
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     3
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     3
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     3
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     3
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     3
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     3
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     3
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     3
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     3
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     3
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     3
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     4
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     4
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     4
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     4
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     4
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     4
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     4
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     4
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     4
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     4
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     5
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     5
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     5
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     5
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     5
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     5
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     5
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     5
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     5
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     5
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     6
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     6
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     6
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     6
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     6
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     6
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     6
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     6
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     6
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     6
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     7
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     7
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     7
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     7
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     7
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     7
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     7
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     7
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     7
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     7
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     8
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     8
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     8
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     8
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     8
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     8
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     8
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     8
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     8
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     8
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     9
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     9
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     9
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     9
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     9
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     9
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     9
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     9
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     9
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+     9
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    10
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    10
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    10
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    10
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    10
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    10
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    10
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    10
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    10
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    10
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    11
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    11
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    11
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    11
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    11
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    11
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    11
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    11
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    11
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    11
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    12
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    12
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    12
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    12
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    12
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    12
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    12
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    12
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    12
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    12
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    13
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    13
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    13
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    13
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    13
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    13
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    13
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    13
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    13
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    13
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    14
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    14
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    14
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    14
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    14
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    14
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    14
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    14
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    14
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    14
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    15
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    15
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    15
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    15
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    15
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    15
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    15
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    15
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    15
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    15
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    16
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    16
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    16
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    16
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    16
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    16
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    16
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    16
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    16
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    16
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    17
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    17
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    17
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    17
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    17
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    17
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    17
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    17
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    17
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    17
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    18
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    18
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    18
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    18
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    18
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    18
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    18
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    18
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    18
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    19
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    19
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    19
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    19
+
+
+t_cmd =
+
+    0.0942
+
+
+index =
+
+    19
+
+
+t_cmd =
+
+    0.0942
+
+{ˆ—‚Í“r’†‚ÅI—¹‚µ‚Ü‚µ‚½ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRjudge', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRjudge.m', 21)" style="font-weight:bold">HRjudge</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRjudge.m',21,0)">line 21</a>)
+
+
+êŠ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 52)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',52,0)">line 52</a>)
+		state = HRjudge(posT);
+
+êŠ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ga', 'C:\Users\issei\Desktop\2018_Hoppingrover\ga.m', 9)" style="font-weight:bold">ga</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\ga.m',9,0)">line 9</a>)
+    HRmain;
+} 
+ga

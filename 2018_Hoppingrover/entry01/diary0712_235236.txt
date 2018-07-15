@@ -1,0 +1,26 @@
+{関数または変数 'myInput' が未定義です。
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 43)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',43,0)">line 43</a>)
+			t_cmd = Control(pos,vel,the,omg,posT,t_,smt_,state, myInput);
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ga2', 'C:\Users\issei\Desktop\2018_Hoppingrover\ga2.m', 65)" style="font-weight:bold">ga2</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\ga2.m',65,0)">line 65</a>)
+        HRmain;
+} 
+ga2
+{関数または変数 'readcsv' が未定義です。
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ga2', 'C:\Users\issei\Desktop\2018_Hoppingrover\ga2.m', 20)" style="font-weight:bold">ga2</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\ga2.m',20,0)">line 20</a>)
+myInputModels = readcsv('./firstInput.csv');
+} 
+ga2
+  300.0200
+  300.0300
+  300.0400
+  300.0500
+  300.3000
+  300.4200
+  300.4200
+  301.8900
+  312.3900
+  393.8000
+

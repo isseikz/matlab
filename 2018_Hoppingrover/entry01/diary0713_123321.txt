@@ -1,0 +1,2 @@
+Ouch! The top side hits the surface and gets broken.
+Simulation is terminated.

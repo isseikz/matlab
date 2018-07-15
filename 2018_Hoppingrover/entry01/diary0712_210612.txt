@@ -1,0 +1,7 @@
+{エラー: <a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\entry01\Control.m',24,9)">ファイル: Control.m 行:24 列:9
+</a>式が無効です。不足している文字または余分な文字をチェックしてください。
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 42)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',42,0)">line 42</a>)
+			t_cmd = Control(pos,vel,the,omg,posT,t_,smt_,state);
+} 
+HRmain

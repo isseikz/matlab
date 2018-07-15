@@ -1,0 +1,6 @@
+{ˆ—‚Í“r’†‚ÅI—¹‚µ‚Ü‚µ‚½ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 48)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',48,0)">line 48</a>)
+
+
+êŠ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ga', 'C:\Users\issei\Desktop\2018_Hoppingrover\ga.m', 13)" style="font-weight:bold">ga</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\ga.m',13,0)">line 13</a>)
+    HRmain;
+} 

@@ -1,0 +1,1 @@
+function euler(funderyv)%%  	numerical integration by Euler method%	global x_ dx_ nde_ dth_ t_	evalstr = [funderyv];	eval(evalstr);	for k = 1 : nde_		x_(k) = x_(k) + dth_*dx_(k);	end	t_ = t_ + dth_;

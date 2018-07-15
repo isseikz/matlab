@@ -1,0 +1,9 @@
+{関数または変数 'len' が未定義です。
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Control', 'C:\Users\issei\Desktop\2018_Hoppingrover\entry01\Control.m', 28)" style="font-weight:bold">Control</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\entry01\Control.m',28,0)">line 28</a>)
+disp(len(myInput));
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 42)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',42,0)">line 42</a>)
+			t_cmd = Control(pos,vel,the,omg,posT,t_,smt_,state);
+} 
+HRmain

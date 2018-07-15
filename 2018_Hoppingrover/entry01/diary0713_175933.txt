@@ -1,0 +1,98 @@
+     6
+
+     0
+
+     3
+
+   3.3355e-06
+
+     3
+
+   1.3646e-05
+
+     3
+
+   3.1029e-05
+
+     3
+
+   5.5481e-05
+
+     3
+
+   8.6997e-05
+
+     3
+
+   1.2557e-04
+
+     3
+
+   1.7120e-04
+
+     3
+
+   2.2388e-04
+
+     3
+
+   2.8359e-04
+
+     3
+
+   3.5033e-04
+
+     3
+
+   4.2408e-04
+
+     3
+
+   5.0483e-04
+
+     3
+
+   5.9257e-04
+
+     3
+
+   6.8728e-04
+
+     3
+
+   7.8894e-04
+
+     3
+
+   8.9753e-04
+
+     3
+
+    0.0010
+
+     3
+
+    0.0011
+
+     3
+
+    0.0013
+
+     3
+
+    0.0014
+
+     3
+
+    0.0015
+
+     3
+
+    0.0017
+
+{出力引数 "t_cmd" (および他の引数もおそらく) は "Control" の呼び出し中に代入されていません。
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 43)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',43,0)">line 43</a>)
+			t_cmd = Control(pos,vel,the,omg,posT,t_,smt_,state, myInput);
+} 
+HRmain

@@ -1,0 +1,7 @@
+{ˆ—‚Í“r’†‚ÅI—¹‚µ‚Ü‚µ‚½ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRjudge', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRjudge.m', 13)" style="font-weight:bold">HRjudge</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRjudge.m',13,0)">line 13</a>)
+
+
+êŠ <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 53)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',53,0)">line 53</a>)
+		state = HRjudge(posT);
+} 
+HRmain

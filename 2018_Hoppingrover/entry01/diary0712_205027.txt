@@ -1,0 +1,9 @@
+{'Control' は現在のフォルダーまたは MATLAB パス上に見つかりませんが、次の場所にあります:
+ C:\Users\issei\Desktop\2018_Hoppingrover\entry00
+
+<a href = "matlab:cd 'C:\Users\issei\Desktop\2018_Hoppingrover\entry00'">MATLAB の現在のフォルダーを変更</a> または <a href = "matlab:addpath 'C:\Users\issei\Desktop\2018_Hoppingrover\entry00'">そのフォルダーを MATLAB パスに追加</a>。
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 42)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',42,0)">line 42</a>)
+			t_cmd = Control(pos,vel,the,omg,posT,t_,smt_,state);
+} 
+HRmain

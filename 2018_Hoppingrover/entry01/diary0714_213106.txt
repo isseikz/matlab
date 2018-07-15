@@ -1,0 +1,13 @@
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('pause')" style="font-weight:bold">pause</a>
+Operation terminated by user
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRdisp', '/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/HRdisp.m', 65)" style="font-weight:bold">HRdisp</a> (<a href="matlab: opentoline('/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/HRdisp.m',65,0)">line 65</a>)
+pause(0.01);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', '/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/HRmain.m', 60)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/HRmain.m',60,0)">line 60</a>)
+	  			HRdisp(ts,xs,posT);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ga3', '/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/ga3.m', 13)" style="font-weight:bold">ga3</a> (<a href="matlab: opentoline('/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/ga3.m',13,0)">line 13</a>)
+    HRmain;
+} 
+ga3

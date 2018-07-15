@@ -1,0 +1,12 @@
+{インデックスが配列範囲を超えています。
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Control', 'C:\Users\issei\Desktop\2018_Hoppingrover\entry01\Control.m', 29)" style="font-weight:bold">Control</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\entry01\Control.m',29,0)">line 29</a>)
+t_cmd = myInput(index);
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m', 42)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\HRmain.m',42,0)">line 42</a>)
+			t_cmd = Control(pos,vel,the,omg,posT,t_,smt_,state);
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ga2', 'C:\Users\issei\Desktop\2018_Hoppingrover\ga2.m', 12)" style="font-weight:bold">ga2</a> (<a href="matlab: opentoline('C:\Users\issei\Desktop\2018_Hoppingrover\ga2.m',12,0)">line 12</a>)
+    HRmain;
+} 
+ga2

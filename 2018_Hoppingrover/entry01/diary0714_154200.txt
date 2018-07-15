@@ -1,0 +1,9 @@
+{Undefined function or variable 'myInput'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Control', '/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/entry01/Control.m', 95)" style="font-weight:bold">Control</a> (<a href="matlab: opentoline('/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/entry01/Control.m',95,0)">line 95</a>)
+    t_cmd = myInput(fix(t-90)+1);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', '/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/HRmain.m', 44)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('/home/issei/Desktop/宇宙空間利用光学/2018_Hoppingrover/HRmain.m',44,0)">line 44</a>)
+            t_cmd = Control(pos,vel,the,omg,posT,t_,smt_,state);
+} 
+ga3
