@@ -17,9 +17,12 @@ dhdx(6) = q(3) + 0.5 * ( l(5)*w(1) -l(4)*w(2) -l(7)*w(3));
 dhdx(7) = q(4) + 0.5 * ( l(4)*w(1) +l(2)*w(2) +l(6)*w(3));
 
 % L
-err = x - xd;
-% err = x;
-for i=1:7
-    dhdx(i) = dhdx(i) + err(i)^2;
-end
+% err = x - xd;
+% % err = x;
+% for i=1:7
+%     dhdx(i) = dhdx(i) + err(i)^2;
+% end
 
+for i=1:7
+    dhdx(i) = dhdx(i) + 2 * x(i);
+end
