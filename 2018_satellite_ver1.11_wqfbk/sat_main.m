@@ -10,7 +10,7 @@
     global casenumber tin
     global Inert torque_max
     global flag target_1 target_2 target_3 flag_list
-%
+%1
     fp = fopen('result.csv','wt');
     fprintf(fp,'     t     ,  omega_x  ,  omega_y  ,  omega_z  ,  quart_1  ,  quart_2  ,  quart_3  ,  quart_4  , torque_x  , torque_y  , torque_z  \n');
 %
@@ -19,14 +19,14 @@
     sat_init;
     
     sat_randominit;
-    
+    1
 %
     flag_list=[];
     x_list = [];
     t_list = [];    %for output
 %
 % simulation
-%
+%1
     while(1)
         omega = x(1:3);
         quart = x(4:7);
@@ -42,7 +42,7 @@
         flag_list=[flag_list,flag];
         x_list = [x_list, x];
         t_list = [t_list, t]; 
-    % I—¹”»’èCflag‚ª3‚ð’´‚¦‚Ä‚¢‚½‚çI—¹C‚Ü‚½‚ÍŽž‚ªtfˆÈã
+    % ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Cflagï¿½ï¿½3ï¿½ð’´‚ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½Cï¿½Ü‚ï¿½ï¿½ÍŽï¿½ï¿½ï¿½ï¿½ï¿½tfï¿½Èï¿½
         if flag > 3
             if casenumber == 1
                 fprintf ('time is %8.4f\n',t);
