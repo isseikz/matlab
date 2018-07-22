@@ -18,7 +18,7 @@ function [] = car_init
     switch casenumber
         case 1
             disp('Case1');
-                x(1:2)  = [ -0; -100];   %position[m]
+                x(1:2)  = [ -0.00; -100];   %position[m]
                 x(3)    = 90.0 * pi / 180.0;  %attitude[deg]
                 x(4)    = 0.0;                %velocity[m/s]
                 x(5)    = 0.0 * pi / 180.0;   %steering[deg]

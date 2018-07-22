@@ -36,6 +36,7 @@ pos2 = [scnsize(3)/2 scnsize(4)/2 scnsize(3)/4 scnsize(4)/2];
         target = [tgx, tgy, tgthe];
     % control
         [input] = car_control(pos, the, vel, fai, target, length, t);
+%         input(1) = input(1) +  -10*sin(5*t);  % disturbance
         x(6:7) = input;
     % print output
         fprintf(fp,'%11f,%11f,%11f,%11f,%11f,%11f,%11f\n',t,x); 

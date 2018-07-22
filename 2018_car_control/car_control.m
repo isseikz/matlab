@@ -10,16 +10,16 @@ global casenumber
 global ctr_S ctr_c ctr_Lambda ctr_input ctr_state_p ctr_lambda_Traj
 global accel_max delta_max fai_max
 
-ctr_Tf   = 5; 
+ctr_Tf   = 3; 
 ctr_T_a  = 0.5;
 ctr_T    = ctr_Tf * (1-exp(-ctr_T_a*t));
-ctr_step = 500;
+ctr_step = 300;
 ctr_dt   = ctr_T / ctr_step;
 ctr_dTdt = -ctr_T_a * ctr_Tf * exp(-ctr_T_a*t);
 
 ctr_Q0 = [[1,0,0,0,0];[0,1,0,0,0];[0,0,1,0,0];[0,0,0,1,0];[0,0,0,0,1]];
-ctr_Q = [[100,0,0,0,0];[0,1000,0,0,0];[0,0,1,0,0];[0,0,0,1,0];[0,0,0,0,10]];
-ctr_R = [[100,0];[0,10000]];
+ctr_Q = [[1000,0,0,0,0];[0,1000,0,0,0];[0,0,1,0,0];[0,0,0,1,0];[0,0,0,0,10]];
+ctr_R = [[100,0];[0,1000000]];
 ctr_state = [pos(1), pos(2), the, vel, fai]';
 % disp([t,ctr_state']);
 
