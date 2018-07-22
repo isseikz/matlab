@@ -23,7 +23,7 @@ ctr_R = [[100,0];[0,10000]];
 ctr_state = [pos(1), pos(2), the, vel, fai]';
 % disp([t,ctr_state']);
 
-ctr_A1 = -200 * eye(5);
+ctr_A1 = -100 * eye(5);
 
 if t == 0 % initial condition
     ctr_Lambda = func_dPhidx(ctr_Q0, ctr_state);
@@ -85,4 +85,4 @@ end
 
 % input = f(lambda)
 input(1) = ctr_input(1,1);
-input(2) = 0;%ctr_input(2,1);
+input(2) = ctr_input(2,1);
