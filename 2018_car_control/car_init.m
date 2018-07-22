@@ -14,11 +14,11 @@ function [] = car_init
     x       = zeros(6,1);   %6states
     t       = 0;            %time
     
-    %‰Šúó‘Ô1~4i‚±‚±‚ğ•Ï‚¦‚é‚Ì‚ª‰Û‘èjA5,6
+    %ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½1~4ï¿½iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï‚ï¿½ï¿½ï¿½Ì‚ï¿½ï¿½Û‘ï¿½jï¿½A5,6
     switch casenumber
         case 1
             disp('Case1');
-                x(1:2)  = [ -50; -100];   %position[m]
+                x(1:2)  = [ -0; -100];   %position[m]
                 x(3)    = 90.0 * pi / 180.0;  %attitude[deg]
                 x(4)    = 0.0;                %velocity[m/s]
                 x(5)    = 0.0 * pi / 180.0;   %steering[deg]
@@ -34,7 +34,7 @@ function [] = car_init
                 x(3)    = 0.0 * pi / 180.0;  %attitude[deg]
                 x(4)    = 0.0;                %velocity[m/s]
                 x(5)    = 0.0 * pi / 180.0;   %steering[deg]            
-        case 4 %%%%%ƒ‰ƒ“ƒ_ƒ€‰Šúó‘Ô‚Íƒ}ƒjƒ…ƒAƒ‹“ü—Í%%%%%
+        case 4 %%%%%ï¿½ï¿½ï¿½ï¿½ï¿½_ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô‚Íƒ}ï¿½jï¿½ï¿½ï¿½Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½%%%%%
             disp('Case4');
                 x(1:2)  = [ 0; -100];   %position[m]
                 x(3)    = 90.0 * pi / 180.0;  %attitude[deg]

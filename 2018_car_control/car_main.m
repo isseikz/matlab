@@ -14,7 +14,8 @@
     fp = fopen('result.dat','wt');
     fprintf(fp,'     t     ,     X     ,     Y     , attitude  , velocity  , steering  ,input_accel,input_steer\n');
 %
-    casenumber = input('Enter a Case-number:');
+%     casenumber = input('Enter a Case-number:');
+    casenumber = 1
     car_init;
 %
     x_list = [];
