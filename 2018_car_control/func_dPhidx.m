@@ -6,6 +6,6 @@ function dPhidx = func_dPhidx(Q, state)
 %     state_phi   = state(5);
     d = zeros(5,1);
     for i = 1:5
-        d(i) = Q(i,i)*state(i);
+        d(i,1) = Q(i,i)*state(i);
     end
     dPhidx = d;

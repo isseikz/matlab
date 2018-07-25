@@ -1,0 +1,6 @@
+{関数または変数 'myInput' が未定義です。
+
+エラー: <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Projects\matlab\2018_Hoppingrover\HRmain.m', 43)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Projects\matlab\2018_Hoppingrover\HRmain.m',43,0)">line 43</a>)
+			t_cmd = Control(pos,vel,the,omg,posT,t_,smt_,state, myInput);
+} 
+ga3

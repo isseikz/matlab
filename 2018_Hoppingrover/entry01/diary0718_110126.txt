@@ -1,0 +1,23 @@
+{処理は途中で終了しました <a href="matlab:matlab.internal.language.introspective.errorDocCallback('set_state', 'C:\Users\issei\Projects\matlab\2018_Hoppingrover\set_state.m', 13)" style="font-weight:bold">set_state</a> (<a href="matlab: opentoline('C:\Users\issei\Projects\matlab\2018_Hoppingrover\set_state.m',13,0)">line 13</a>)
+
+
+場所 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRdynmc', 'C:\Users\issei\Projects\matlab\2018_Hoppingrover\HRdynmc.m', 40)" style="font-weight:bold">HRdynmc</a> (<a href="matlab: opentoline('C:\Users\issei\Projects\matlab\2018_Hoppingrover\HRdynmc.m',40,0)">line 40</a>)
+state = set_state(pos,vel,the,omg,state);
+
+場所 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('euler', 'C:\Users\issei\Projects\matlab\2018_Hoppingrover\util\euler.m', 8)" style="font-weight:bold">euler</a> (<a href="matlab: opentoline('C:\Users\issei\Projects\matlab\2018_Hoppingrover\util\euler.m',8,0)">line 8</a>)
+	eval(evalstr);
+
+場所 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HRmain', 'C:\Users\issei\Projects\matlab\2018_Hoppingrover\HRmain.m', 53)" style="font-weight:bold">HRmain</a> (<a href="matlab: opentoline('C:\Users\issei\Projects\matlab\2018_Hoppingrover\HRmain.m',53,0)">line 53</a>)
+		euler('HRdynmc');
+
+場所 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ga3', 'C:\Users\issei\Projects\matlab\2018_Hoppingrover\ga3.m', 13)" style="font-weight:bold">ga3</a> (<a href="matlab: opentoline('C:\Users\issei\Projects\matlab\2018_Hoppingrover\ga3.m',13,0)">line 13</a>)
+    HRmain;
+} 
+HRmain
+{'HRmain' は現在のフォルダーまたは MATLAB パス上に見つかりませんが、次の場所にあります:
+ C:\Users\issei\Projects\matlab\2018_Hoppingrover
+    C:\Users\issei\Desktop\2018_Hoppingrover
+
+MATLAB の現在のフォルダーを変更 または そのフォルダーを MATLAB パスに追加。
+} 
+HRmain
