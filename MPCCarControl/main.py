@@ -73,19 +73,19 @@ def CalcInput(A, B, C, x, u):
 
     # 予測する各区間に対して評価関数と制約の設定をする
     for t in range(T):
-        cost = 100 *sum_squares(x[0:2,t+1]) + 0.1 * sum_squares(u[:,t])  # 位置の誤差と入力が小さくなるように評価関数を設定
-        constr = [x[:,t+1] == A*x[:,t] + B*u[:,t] + C, norm(u[0,t], 'inf') <= 10, norm(u[1,t], 'inf') <= 1.0] # 運動方程式と入力の範囲が制約条件
+        cost = 100 *sum_squares(x[0:2,t+1]) + 0.001 * sum_squares(u[:,t])  # 位置の誤差と入力が小さくなるように評価関数を設定
+        constr = [x[:,t+1] == A*x[:,t] + B*u[:,t]+ C , norm(u[0,t], 'inf') <= 10, norm(u[1,t], 'inf') <= 3.0] # 運動方程式と入力の範囲が制約条件
 
         # 終端コストとして速度を設定
-        if t == T:
-            cost += 10000 * x[3,t+1]**2
+        # if t == T:
+        #     cost += 10000 * x[3,t+1]**2
 
         states.append( Problem(Minimize(cost), constr) )
 
     prob = sum(states)
 
     # 初期条件を制約に設定
-    prob.constraints += [x[:,0] == x_0]
+    prob.constraints += [x[:,0] == x_0, x[3,T] == 0.0]
     prob.solve() # 凸最適化
 
     if prob.status != OPTIMAL:
@@ -108,6 +108,7 @@ def Main():
     state = np.vstack((0.0,x[:,0],u[:,0]))
     log[:,0] = np.squeeze(np.asarray(state))
 
+    start = time.time()
     for i in range(1000):
         A, B, C = LinealizedModel(x, u, dt, lr)        # 現在の状態周りで系を線形化
         ustar, xstar, cost = CalcInput(A, B, C, x, u)  # 最適入力問題を解いて入力を求める
@@ -126,15 +127,15 @@ def Main():
         np.set_printoptions(precision=2, floatmode='fixed', suppress=True)
         print(log[:,i+1].T)
 
-        plt.plot(0,0, 'xb')
-        plt.plot(GetListFromMatrix(xstar.value[0, :]), GetListFromMatrix(xstar.value[1, :]), '-b') # 状態ホライズン
-        plt.plot(x[0], x[1], '.r') # 実際の位置
-        plt.axis("equal")
-        plt.xlabel("x[m]")
-        plt.ylabel("y[m]")
-        plt.grid(True)
-
-        plt.pause(0.0001)
+        # plt.plot(0,0, 'xb')
+        # plt.plot(GetListFromMatrix(xstar.value[0, :]), GetListFromMatrix(xstar.value[1, :]), '-b') # 状態ホライズン
+        # plt.plot(x[0], x[1], '.r') # 実際の位置
+        # plt.axis("equal")
+        # plt.xlabel("x[m]")
+        # plt.ylabel("y[m]")
+        # plt.grid(True)
+        #
+        # plt.pause(0.0001)
 
         # グラフ描画用おわり
 
@@ -148,6 +149,10 @@ def Main():
         # 終了判定おわり
 
     # plt.show()
+
+    end = time.time()
+    duration = end - start
+    print(f'duration: %d [s]', duration)
 
     # 速度・加速度・ハンドル角速度の表示
     plt.figure()
